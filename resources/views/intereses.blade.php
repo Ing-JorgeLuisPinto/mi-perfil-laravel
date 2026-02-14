@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="{{ asset('estilos.css') }}">
+
     <title>Intereses</title>
 </head>
 <body>
-    <h1>Mis Intereses</h1>
-    <ul>
-        <li>Programación</li>
-        <li>Tecnología</li>
-        <li>Videojuegos</li>
-        <li>Musica</li>
-        <li>Carros</li>
+    <div class="container">
+        <h1>Mis Intereses</h1>
+        <ul>
+         <li>Programación</li>
+         <li>Tecnología</li>
+          <li>Videojuegos</li>
+          <li>Musica</li>
+          <li>Carros</li>
 
 
-    </ul>
+         </ul>
+   </div>
 </body>
 </html>

@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="{{ asset('estilos.css') }}">
+
     <title>Habilidades</title>
 </head>
 <body>
-    <h1>Habilidades Técnicas</h1>
-    <ul>
+     <div class="container">
+
+        <h1>Habilidades Técnicas</h1>
+         <ul>
         <li>HTML</li>
         <li>CSS</li>
         <li>PHP</li>
@@ -13,8 +17,7 @@
         <li>KOTLIN</li>
         <li>JAVA</li>
         <li>JAVASCRIPT</li>
-
-
-    </ul>
+          </ul>
+    </div>
 </body>
 </html>
