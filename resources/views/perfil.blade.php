@@ -6,6 +6,14 @@
     <title>Perfil</title>
 </head>
 <body>
+<nav>
+    <a href="/perfil">Perfil</a>
+    <a href="/perfil/intereses">Intereses</a>
+    <a href="/perfil/habilidades">Habilidades</a>
+    <a href="/perfil/metas">Metas</a>
+</nav>
+
+
         <div class="container">
 
     <h1>Mi Perfil</h1>
